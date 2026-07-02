@@ -1,0 +1,27 @@
+{
+  "columns": {
+    "record_id": [
+      "Record ID",
+      "RecordID",
+      "Contact ID",
+      "Object ID",
+      "ID",
+      "record_id"
+    ],
+    "country": [
+      "Country/Region",
+      "Country",
+      "Country Region",
+      "Country or Region",
+      "country"
+    ],
+    "state": [
+      "State/Region",
+      "State",
+      "State Region",
+      "Region",
+      "Province",
+      "state"
+    ]
+  }
+}

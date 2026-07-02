@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Virtual environments
+.venv/
+env/
+
+# Generated outputs
+output/
+logs/
+
+# Input data (contains company data)
+input/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env

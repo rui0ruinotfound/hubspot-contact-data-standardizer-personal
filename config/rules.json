@@ -1,0 +1,14 @@
+{
+  "enable_fuzzy_matching": true,
+  "fuzzy_auto_fix_threshold": 0.94,
+  "fuzzy_suggest_threshold": 0.84,
+  "preserve_all_columns": true,
+  "strict_country_key_validation": true,
+  "strict_state_key_validation": false,
+  "actions_supported_in_review": [
+    "update",
+    "blank",
+    "keep",
+    "skip"
+  ]
+}
